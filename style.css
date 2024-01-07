@@ -103,7 +103,26 @@ nav a {
 /* main section style */
 .about {
     padding: 130px;
-    border-radius: 10px;
-    margin: 13px 0 ;
+    border-radius: 20px;
+    margin: 130px 0 ;
     background-color: #FFF8F3 ;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-con{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+.info-title{
+    color: #757575;
+    font-weight: normal;
+}
+#wid-dis{
+    padding: 30px 150px;
+    
 }
